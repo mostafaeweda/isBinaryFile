@@ -61,3 +61,5 @@ describe('isBinaryFile', function() {
       });
     });
 });
+
+// new line
